@@ -21,7 +21,7 @@
 - matplotlib
 - seaborn
 - sklearn
-- Базовые библиотеки python
+- стандартные библиотеки python
 
 ## Датасет
 - Использован датасет MNIST (Modified National Institute of Standards and Technology database)

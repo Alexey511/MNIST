@@ -1,2 +1,3 @@
-results
-models
+notebooks/MNIST/
+results/
+models/
